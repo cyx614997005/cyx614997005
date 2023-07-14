@@ -16,6 +16,7 @@
   </div>
 
 <div align="center">
+    <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" />
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=sun0225SUN&theme=dark&hide_border=true" />
 </div>
 
